@@ -12,6 +12,9 @@
 2. Input Box Data Wajib Number
 3. Validation Code jika sudah ada di database.
 
+### Documentation API
+https://app.getpostman.com/join-team?invite_code=991b41da13b465c09596bd9ec79928aa&target_code=d37689677c1acc0d33bc421ef0f8dee3
+
 ### tutorial
 #### backend
 1. cd quinos-api and try to configuration .env-example for database
